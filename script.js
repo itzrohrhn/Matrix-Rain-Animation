@@ -13,7 +13,7 @@
     const fontSize = 16;
     const columns = Math.floor(canvas.width / fontSize);
     const drops = Array(columns).fill(1);
-    const matrixChars = "KOMAL".split("");
+    const matrixChars = "Rohh The Developer".split("");
     const columnCharIndex = Array(columns).fill(0);
 
     function drawMatrix() {
